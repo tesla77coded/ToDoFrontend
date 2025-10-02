@@ -98,8 +98,7 @@ Vercel auto-detects Vite projects.
    * `VITE_API_URL` = `https://todobackendassignment-wy0n.onrender.com/api/v1` (or your backend URL)
 5. Deploy. Vercel will build and serve the site. Set the same `VITE_API_URL` for Preview (optional).
 
-**Important:** After deploying, add the deployed frontend origin (e.g. `https://your-site.vercel.app`) to your backend CORS allowed origins.
-
+Live deployment: https://to-do-frontend-gray-nu.vercel.app/
 ---
 
 ## API / Backend expectations
