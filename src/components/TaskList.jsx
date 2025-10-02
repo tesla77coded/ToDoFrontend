@@ -7,7 +7,6 @@ const SORT_OPTIONS = [
   { key: 'createdAt:asc', label: 'Created — oldest first' },
   { key: 'dueDate:asc', label: 'Due date — soonest' },
   { key: 'dueDate:desc', label: 'Due date — latest' },
-  { key: 'priority:desc', label: 'Priority — high first' },
 ];
 
 export default function TaskList({ refreshFlag }) {
