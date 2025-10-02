@@ -1,0 +1,48 @@
+# Node / deps
+node_modules/
+.pnp/
+.pnp.js
+.vscode/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+dist/
+build/
+.cache/
+*.local
+
+# Vite / React
+.env
+.env.local
+.env.*.local
+/.vite
+/.parcel-cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Lockfiles (keep 1 if you want)
+# package-lock.json
+pnpm-lock.yaml
+
+# Misc
+*.tgz
+*.bak
+
+# JetBrains
+/.idea
+
+# Mac
+*.DS_Store
