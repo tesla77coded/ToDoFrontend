@@ -3,6 +3,10 @@
 Minimal, production-ready frontend for the **Todo Backend internship assignment**.
 This repo is intended to be a small UI to exercise the backend APIs (auth, RBAC, tasks). Built with Vite, React and Tailwind.
 
+*Note: Access admin account by using admin@gmail.com
+admin@123
+
+email and password respectively.
 ---
 
 ## Contents
